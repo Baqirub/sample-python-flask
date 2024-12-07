@@ -4,7 +4,7 @@
   "logo": "https://scalingo.com/logo.svg",
   "addons": ["scalingo-postgresql"],
   "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app","app","webapp"],
-  "repository": "https://github.com/Baqirub/sample-python-flask",
+  "repository": "https://github.com/Scalingo/sample-python-flask.git",
   "website": "https://sample-python-flask.scalingo.io",
   "stack": "container",
     "env": {
